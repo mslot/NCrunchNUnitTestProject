@@ -7,5 +7,6 @@ namespace Model
 {
     public class Worker
     {
+        public Chef Chef { get; set; }
     }
 }
